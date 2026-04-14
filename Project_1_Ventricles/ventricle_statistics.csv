@@ -1,0 +1,2 @@
+﻿Segment,Voxel count (LM),Volume (LM) [mm3],Volume (LM) [cm3],Voxel count (SV),Volume (SV) [mm3],Volume (SV) [cm3],Minimum,Maximum,Mean,Standard Deviation,Percentile 5,Percentile 95,Median,Surface area [mm2],Volume (CS) [mm3],Volume (CS) [cm3]
+Segment_1,14755,15561.9,15.5619,14755,15561.9,15.5619,12,414,86.6945,45.1223,31,161,79,8911.15,14950.3,14.9503
